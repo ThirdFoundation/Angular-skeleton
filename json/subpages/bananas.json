@@ -1,0 +1,12 @@
+[
+	{
+		"title": "BANANAS: The fruit that starts with 'B'."
+	},
+	{
+		"blurb": "Look below for more information about bananas."
+	},
+	{
+		"linkURL": "https://en.wikipedia.org/wiki/Banana",
+		"linkText": "Click me!"
+	}
+]

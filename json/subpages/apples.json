@@ -1,0 +1,12 @@
+[
+	{
+		"title": "APPLES: The fruit that starts with 'A'."
+	},
+	{
+		"blurb": "Look below for more information about apples."
+	},
+	{
+		"linkURL": "https://en.wikipedia.org/wiki/Apple",
+		"linkText": "Click me!"
+	}
+]

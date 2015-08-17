@@ -1,0 +1,27 @@
+[
+	{
+		"title": "PRINCES",
+		"name": "princes",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for princes."
+	},
+	{
+		"title": "QUEENS",
+		"name": "queens",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for queens."
+	},
+	{
+		"title": "REPRESENTATIVES",
+		"name": "representatives",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for representatives."
+	},
+	{
+		"title": "SENATORS",
+		"name": "senators",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for senators."
+	},
+	{
+		"title": "TYRANTS",
+		"name": "tyrants",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for tyrants."
+	}
+]

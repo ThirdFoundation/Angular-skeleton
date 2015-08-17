@@ -1,0 +1,27 @@
+[
+	{
+		"title": "UVULAS",
+		"name": "uvulas",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for uvulas."
+	},
+	{
+		"title": "VENTRICLES",
+		"name": "ventricles",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for ventricles."
+	},
+	{
+		"title": "WHITE BLOOD CELLS",
+		"name": "white",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for white blood cells."
+	},
+	{
+		"title": "X CHROMOSOMES",
+		"name": "xchrom",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for X chromosomes."
+	},
+	{
+		"title": "Y CHROMOSOMES",
+		"name": "ychrom",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for Y chromosomes."
+	}
+]

@@ -1,0 +1,27 @@
+[
+	{
+		"title": "APPLES",
+		"name": "apples",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for apples."
+	},
+	{
+		"title": "BANANAS",
+		"name": "bananas",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for bananas."
+	},
+	{
+		"title": "COCONUTS",
+		"name": "coconuts",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for coconuts."
+	},
+	{
+		"title": "DURIANS",
+		"name": "durians",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for durians."
+	},
+	{
+		"title": "EGGPLANTS",
+		"name": "eggplants",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for eggplants."
+	}
+]

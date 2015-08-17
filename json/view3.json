@@ -1,0 +1,27 @@
+[
+	{
+		"title": "KANGAROOS",
+		"name": "kangaroos",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for kangaroos."
+	},
+	{
+		"title": "LEMURS",
+		"name": "lemurs",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for lemurs."
+	},
+	{
+		"title": "MASTODONS",
+		"name": "mastodons",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for mastodons."
+	},
+	{
+		"title": "NEWTS",
+		"name": "newts",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for newts."
+	},
+	{
+		"title": "OCELOTS",
+		"name": "ocelots",
+		"blurb": "If you click on the title above, you'll be directed to the subpage for ocelots."
+	}
+]
